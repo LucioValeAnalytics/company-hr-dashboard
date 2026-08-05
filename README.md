@@ -4,14 +4,6 @@ Migration from **MySQL (Azure)** to **PostgreSQL (Neon)**, ETL with **Power Quer
 
 ---
 
-## Demo
-
-A short walkthrough of the repository, database setup, ETL process, and final Power BI dashboard.
-
-[Watch the video](assets/company-demo.mp4)
-
----
-
 # Dashboard
 
 ![Dashboard](assets/painel.png)
@@ -91,11 +83,12 @@ company-hr-dashboard
 │
 ├── README.md
 ├── company.pbix
-├── company_dataset.rar
+├── dataset.zip
 │
 ├── assets
 │   ├── painel.png
 │   ├── erase_rh.png
+│   ├── company.mp4
 │   ├── neon_console.png
 │   └── host_console.png
 │
