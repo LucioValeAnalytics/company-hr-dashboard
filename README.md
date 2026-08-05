@@ -320,7 +320,7 @@ Analytical visuals:
 | File | Description |
 |------|-------------|
 | company.pbix | Power BI Dashboard |
-| company_dataset.xlsx | Analytical dataset |
+| dataset.zip | Analytical dataset |
 | company_postgresql.sql | PostgreSQL database creation |
 | inserts_into.sql | Database load |
 | README.md | Project documentation |
