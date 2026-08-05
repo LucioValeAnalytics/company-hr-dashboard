@@ -87,6 +87,7 @@ company-hr-dashboard
 │
 ├── assets
 │   ├── painel.png
+│   ├── erase_rh.png
 │   ├── neon_console.png
 │   └── host_console.png
 │
